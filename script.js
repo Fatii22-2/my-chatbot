@@ -1,5 +1,5 @@
 // 1. Remplace BIEN cette clé. Si elle ne marche pas, le mode "Démo" prendra le relais.
-const API_KEY = "TA_CLE_API_ICI"; 
+const API_KEY = "AIzaSyDHhvNVVNs1bT9E6GHLAsZ6DE5yVunhWeg"; 
 const API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=" + API_KEY;
 
 const chatBox = document.getElementById('chat-box');
